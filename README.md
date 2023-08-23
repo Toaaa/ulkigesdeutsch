@@ -2,6 +2,23 @@
 ES IST SEHR ULKIG
 
 ## Begriffe:
+- Heiter
+- Erheitern
+- Beschwingt
+- Erheiternd
+- Angeschwipst
+- Beschwipst
+- Feuchtfröhlich
+- Bahnbrechend
+- Eigenbrötlerisch
+- Verquer
+- Urkomisch
+- Kauzig
+- Verschroben
+- Ulkig
+- Schrullig
+- Verschmitzt
+- Kauderwelsch
 - Stinksauer
 - Eingeschnappt
 - Kupferstecher
@@ -13,8 +30,13 @@ ES IST SEHR ULKIG
 - Heiliger Strohsack
 - starket Tobak
 - Flitzpiepe
+- Kichern
 
 ## Phrasen:
+- Du bist heute mal wieder ziemlich Kauzig
+- Au Backe
+- Verflixt und zugenäht
+- Was redest du denn für einen Kauderwelsch?
 - Da platzt mir (allmählich) der Kragen
 - Da wird der Hund in der Pfanne verrückt
 - Fuchs-Teufels-Wild
@@ -29,3 +51,6 @@ ES IST SEHR ULKIG
 - Zapalott nochmal / noch eins
 - Lügen haben kurze Beine
 - Die Kirche im Dorf lassen
+
+# Honorierte Aufzählung
+- Bourbò
