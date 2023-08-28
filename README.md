@@ -1,6 +1,8 @@
 # Ulkiges Deutsch
 ES IST SEHR ULKIG
 
+![](https://i.toaaa.de/i/wvvs0.png)
+
 ## Begriffe:
 - Rumpelsurig
 - Heiter
