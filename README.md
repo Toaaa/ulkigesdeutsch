@@ -34,6 +34,7 @@ ES IST SEHR ULKIG
 - Kichern
 
 ## Phrasen:
+- An die Decke gehen
 - Reinen Tisch machen
 - (jemanden) aufs Glatteis führen (wollen)
 - (jemanden) in die Pfanne hauen (wollen)
