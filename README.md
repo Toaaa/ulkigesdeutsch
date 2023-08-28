@@ -1,5 +1,6 @@
 # Ulkiges Deutsch
-ES IST SEHR ULKIG
+### Unsere Kunden sind überzeugt!
+![](https://i.toaaa.de/i/f1xw4.png)
 
 ![](https://i.toaaa.de/i/2pl69.png)
 
