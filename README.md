@@ -14,7 +14,8 @@ ES IST SEHR ULKIG
 - starket Tobak
 - Flitzpiepe
 
-## Phrasen:
+## Phrasen/Redewendungen:
+- An die Decke gehen
 - Da platzt mir (allmählich) der Kragen
 - Da wird der Hund in der Pfanne verrückt
 - Fuchs-Teufels-Wild
