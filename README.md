@@ -34,6 +34,13 @@ ES IST SEHR ULKIG
 - Kichern
 
 ## Phrasen:
+- Reinen Tisch machen
+- (jemanden) aufs Glatteis führen (wollen)
+- (jemanden) in die Pfanne hauen (wollen)
+- Reinlegen
+- Ordentlich reinlegen
+- auf den Leim gehen
+- Da hin gehen wo der Pfeffer wächst
 - Du bist heute mal wieder ziemlich Kauzig
 - Au Backe
 - Verflixt und zugenäht
