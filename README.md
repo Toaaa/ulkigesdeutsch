@@ -33,7 +33,7 @@ ES IST SEHR ULKIG
 - Flitzpiepe
 - Kichern
 
-## Phrasen:
+## Phrasen/Redewendungen:
 - An die Decke gehen
 - Reinen Tisch machen
 - (jemanden) aufs Glatteis führen (wollen)
