@@ -1,7 +1,7 @@
 # Ulkiges Deutsch
 ES IST SEHR ULKIG
 
-![](https://i.toaaa.de/i/wvvs0.png)
+![](https://i.toaaa.de/i/2pl69.png)
 
 ## Begriffe:
 - Rumpelsurig
