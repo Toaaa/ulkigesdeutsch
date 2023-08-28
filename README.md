@@ -2,6 +2,7 @@
 ES IST SEHR ULKIG
 
 ## Begriffe:
+- Rumpelsurig
 - Heiter
 - Erheitern
 - Beschwingt
