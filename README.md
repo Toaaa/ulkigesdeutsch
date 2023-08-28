@@ -60,6 +60,7 @@ ES IST SEHR ULKIG
 - Zapalott nochmal / noch eins
 - Lügen haben kurze Beine
 - Die Kirche im Dorf lassen
+- Ich fass es nicht / etwas nicht fassen (können)
 
 ## Honorierte Aufzählung
 - Bourbò
