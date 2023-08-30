@@ -38,6 +38,7 @@
 - Kichern
 
 ## Phrasen/Redewendungen:
+- Da kreuselt's mir doch die Arschhaare weg!
 - An die Decke gehen
 - Reinen Tisch machen
 - (jemanden) aufs Glatteis führen (wollen)
