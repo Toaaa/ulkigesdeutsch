@@ -25,10 +25,9 @@
 - Kollege Schnürschuh
 - Sportsfreund
 - Grünschnabel
-- Scheckig lachen
 - Potzblitz!
 - Heiliger Strohsack
-- starket Tobak
+- (Das ist aber) starker Tobak
 - Flitzpiepe
 - Kichern
 
@@ -61,7 +60,8 @@
 - Lügen haben kurze Beine
 - Die Kirche im Dorf lassen
 - Ich fass es nicht / etwas nicht fassen (können)
-
+- Scheckig lachen
+  
 ## Honorierte Aufzählung
 - Bourbò
 
