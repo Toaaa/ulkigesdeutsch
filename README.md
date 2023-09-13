@@ -65,7 +65,7 @@
 ## Honorierte Aufzählung
 - Bourbò
 
-### Unsere Kunden sind überzeugt!
+## Unsere Kunden sind überzeugt!
 ![](https://i.toaaa.de/i/f1xw4.png)
 ![](https://i.toaaa.de/i/bos24.png)
 
