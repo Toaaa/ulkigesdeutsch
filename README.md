@@ -1,9 +1,4 @@
 # Ulkiges Deutsch
-### Unsere Kunden sind überzeugt!
-![](https://i.toaaa.de/i/f1xw4.png)
-![](https://i.toaaa.de/i/bos24.png)
-
-![](https://i.toaaa.de/i/2pl69.png)
 
 ## Begriffe:
 - Rumpelsurig
@@ -69,3 +64,9 @@
 
 ## Honorierte Aufzählung
 - Bourbò
+
+### Unsere Kunden sind überzeugt!
+![](https://i.toaaa.de/i/f1xw4.png)
+![](https://i.toaaa.de/i/bos24.png)
+
+![](https://i.toaaa.de/i/2pl69.png)
